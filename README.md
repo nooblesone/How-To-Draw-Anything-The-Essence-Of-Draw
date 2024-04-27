@@ -1,6 +1,8 @@
 # 绘画的本质
 > 以不变应万变的绘画基础
 
+点击这里👉 https://github.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw 进入 GitHub 主页
+
 ![测试图片](https://raw.githubusercontent.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw/main/images/test.png "测试图片")
 
 # 写在前面
@@ -20,7 +22,7 @@
 ## 您可以在这里学到什么 or 学不到什么
 > 您在这个系列可以学到什么
 > - 一套系统的绘画基础体系知识，这套知识可以在您使用任何画种创作时帮祝您更好的作画
-> - 放之四海而皆准的万物起形法
+> - 放之四海而皆准的万物起形法，主管分析光影的能力以及基础的色彩理论
 > - 学习任何画种或技法都能做到提前胸有成竹，带有思考的练习和进步的能力
 >
 > 您在这个系列学不到的
