@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](images/noodlesIcon.png)
 
 # 绘画的本质
 
