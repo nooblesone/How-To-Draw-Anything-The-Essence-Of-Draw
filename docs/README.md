@@ -4,12 +4,14 @@
 欢迎贡献观点、文章！
 点击这里👉 https://github.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw 或右上角 **GitHub 主页** 进入 GitHub 主页，期待您任何的互动、建议与贡献！
 
+如果您的网络不方便访问 GitHub，请使用 Gitee 码云： https://gitee.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw
+
 
 ![测试图片](https://draw2all.nooblesone.top/images/test.jpg "测试图片")
 
 ## 写在前面
 
-各位好，我是泡面君。如果您正在学习绘画，或是打算学习但尚未开始，那么您可能会有这样的发现：
+各位好，我是泡面君。如果您正在学习绘画，或是打算学习但尚未开始，那么您可能会有这样的发现i：
 1. 几乎所有人都在劝你学素描
 2. 当您想报班时，发现画室会有所谓的彩铅班、素描班、水粉班等各种画种的培训课程
 3. 在学习时，跟着老师一笔一笔画，可以画的很好，但一到自己单独画就不会画了
