@@ -5,7 +5,7 @@
 点击这里👉 https://github.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw 或右上角 **GitHub 主页** 进入 GitHub 主页，期待您任何的互动、建议与贡献！
 
 
-![测试图片](https://raw.githubusercontent.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw/main/images/test.png "测试图片")
+![测试图片](https://draw2all.nooblesone.top/images/test.png "测试图片")
 
 ## 写在前面
 
