@@ -10,4 +10,5 @@
 - 不受画具画种限制的底层绘画能力
 
 [GitHub](https://github.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw)
+[Gitee](https://gitee.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw)
 [Get Started](#绘画的本质)
