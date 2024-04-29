@@ -8,6 +8,7 @@
 
 - 放之四海而皆准的绘画基础理论体系
 - 不受画种限制的底层绘画逻辑
+- 泡面不健康所以要少吃哦
 
 [GitHub](https://github.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw)
 [Gitee](https://gitee.com/nooblesone/How-To-Draw-Anything-The-Essence-Of-Draw)
