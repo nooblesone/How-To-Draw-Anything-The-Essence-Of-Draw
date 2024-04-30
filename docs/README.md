@@ -9,7 +9,7 @@
 
 <!-- ![测试图片](https://draw2all.nooblesone.top/images/test.jpg "测试图片") -->
 
- <img src="/images/test.jpg" style="object-fit:contain" height = "500" alt="图片名称" align=center />
+ <img src="./images/test.jpg" style="object-fit:contain" height = "500" alt="图片名称" align=center />
 
 
 
